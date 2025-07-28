@@ -76,7 +76,7 @@ Feel free to fork this repo, work on improvements, and submit a PR.
 git checkout -b feature-branch-name
 📬 Contact
 👤 Somnath Rana
-📧 Email: somnathrana@example.com (update with your real email)
+📧 Email: askmesr@proton.me 
 📍 Location: India
 
 ⭐ Support
